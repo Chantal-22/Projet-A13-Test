@@ -1,5 +1,6 @@
 '''
 Le ciel est bleu.
 Les oiseaux chantent sur le toit.
-Je regarde le ciel et j'apprecie chaque moment de la vie
+Je regarde le ciel et j'apprecie chaque moment de la .
+La vie est belle.
 '''
